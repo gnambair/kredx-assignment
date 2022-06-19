@@ -1,0 +1,50 @@
+.paddng_body{
+    padding: 100px 100px 20px;
+}
+
+.green_text{
+    color: lightgreen;
+}
+.pad_bot1{
+    padding-bottom: 20px;
+}
+
+.three_colum1{
+    width: 100%;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 50px;
+}
+
+.three_colum2{
+    width: 100%;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-bottom: 50px;
+}
+
+.heading_width{
+    width: 840px; 
+}
+
+.width_colum{
+    width: 270px;
+}
+
+.first_column{
+    padding-right: 15px;
+}
+
+.second_column{
+    padding-right: 15px;
+}
+
+.text_height{
+    height: 30px;
+}
+
+.br_hide{
+    display: none;
+}

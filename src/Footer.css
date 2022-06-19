@@ -1,0 +1,15 @@
+.padding_body2{
+    padding: 50px;
+}
+
+
+.ftr_logo {
+    width: 145px;
+    height: auto;
+    justify-content: flex-start;
+}
+
+.footer_sec{
+    display: flex;
+    justify-content: space-between;
+}

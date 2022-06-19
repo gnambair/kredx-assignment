@@ -1,0 +1,67 @@
+.bg_img{
+    width: 100%;
+}
+
+.bg_section{
+    background-image: url('./1.png');
+    background-size: cover;
+    min-height: 550px;
+    
+}
+.padding{
+    padding: 20px;
+    
+}
+
+.card{
+  margin-top: 100px;
+    width:400px;
+    height: 500px;
+    display:flex;
+   position: absolute;
+   
+}
+
+.card1{
+    padding-bottom: 15px;
+   
+}
+
+.border-r{
+    border-radius: 10px;
+}
+.card2{
+    background-color: lightgray;
+}
+.pad_top1{
+    padding-top: 15px;
+}
+
+
+.b_width{
+    width: 100%;
+    
+}
+.to_right{
+   float: right;
+}
+
+.bt_width{
+    width: 150px;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.pad_top2{
+    padding-top: 200px;
+}
+
+.card_align{
+   
+    position:absolute;
+right: 0;
+margin-right: 50px;
+    
+}

@@ -1,0 +1,21 @@
+.paddng_body2{
+    padding: 60px 50px 30px;
+}
+
+.four_column{
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+
+}
+
+@media only screen and (max-width:850px){
+
+    .four_column{
+       flex-direction: column;
+    }
+
+    .text_center_align{
+        text-align: center;
+    }
+}
